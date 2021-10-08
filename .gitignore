@@ -1,0 +1,10 @@
+.vscode
+.cache
+.DS_store
+compile_commands.json
+results/
+obj/
+test_build/
+run
+run_tests
+plots/*.html
